@@ -1,0 +1,6 @@
+username:yqs
+password:yqs2016
+url1: https://nyonline.cn/admin/cps/login.c
+url2: https://nyonline.cn/admin/cps/getData.c
+startTime:2016-03-23
+endTime:2016-06-28
